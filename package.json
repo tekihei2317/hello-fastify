@@ -1,0 +1,23 @@
+{
+  "name": "hello-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekihei2317/hello-fastify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekihei2317/hello-fastify/issues"
+  },
+  "homepage": "https://github.com/tekihei2317/hello-fastify#readme",
+  "dependencies": {
+    "fastify": "^4.6.0"
+  }
+}
