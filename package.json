@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
     "url": "https://github.com/tekihei2317/hello-fastify/issues"
   },
   "homepage": "https://github.com/tekihei2317/hello-fastify#readme",
+  "type": "module",
   "dependencies": {
     "fastify": "^4.6.0"
   }
